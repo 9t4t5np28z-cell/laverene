@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 922" width="1280" height="922" font-family="Helvetica, Arial, sans-serif">
+<rect width="1280" height="922" fill="#0e1a2b"/>
+<text x="40.0" y="44.0" font-size="26" fill="#e6eef7" text-anchor="start" font-weight="bold">THE ESCORT DOCK — A VERTICAL REWORK</text>
+<text x="40.0" y="68.0" font-size="13" fill="#9fb3c8" text-anchor="start" font-weight="normal">Proposal: the Iskar at 7,200 × 1,360 × 900 m, with the twenty Casakins standing nose-down in a full-depth block at the aft end of midships</text>
+<text x="40.0" y="104.0" font-size="16" fill="#4fb3ff" text-anchor="start" font-weight="bold">1 · THE WHOLE SHIP, SIDE VIEW (bow to the left)</text>
+<polygon points="40.0,220.1 119.0,183.7 166.4,161.6 229.6,139.5 877.4,139.5 901.1,161.6 1177.6,161.6 1177.6,253.2 901.1,253.2 877.4,272.2 229.6,272.2 166.4,253.2 119.0,235.9" fill="#16273d" fill-opacity="1" stroke="#9fc3e6" stroke-width="1.2"/>
+<rect x="442.9" y="130.0" width="63.2" height="9.5" fill="#16273d" stroke="#9fc3e6" stroke-width="1" />
+<text x="474.5" y="126.0" font-size="9" fill="#5d7ea3" text-anchor="middle" font-weight="normal">command island</text>
+<rect x="450.8" y="171.1" width="47.4" height="41.1" fill="#2b2440" stroke="#5d7ea3" stroke-width="0.8" />
+<text x="474.5" y="193.2" font-size="9" fill="#9fb3c8" text-anchor="middle" font-weight="normal">Keep</text>
+<rect x="237.5" y="197.9" width="300.2" height="7.9" fill="#13243a" stroke="#9fc3e6" stroke-width="0.8" />
+<rect x="237.5" y="207.4" width="300.2" height="6.3" fill="#1f3b33" stroke="#7fd1b0" stroke-width="0.8" />
+<text x="239.1" y="206.9" font-size="8" fill="#9fb3c8" text-anchor="start" font-weight="normal">Frigate Deck</text>
+<text x="239.1" y="216.4" font-size="8" fill="#bfeedd" text-anchor="start" font-weight="normal">Hangar Bay</text>
+<rect x="542.4" y="139.5" width="113.8" height="132.7" fill="#2a3f5c" stroke="#ffd98a" stroke-width="1.4" />
+<rect x="546.9" y="147.4" width="22.9" height="120.1" fill="#13243a" stroke="#5d7ea3" stroke-width="0.5" />
+<polygon points="549.2,150.5 567.4,150.5 567.4,255.2 558.3,264.3 549.2,255.2" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<rect x="574.2" y="147.4" width="22.9" height="120.1" fill="#13243a" stroke="#5d7ea3" stroke-width="0.5" />
+<polygon points="576.6,150.5 594.7,150.5 594.7,255.2 585.7,264.3 576.6,255.2" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<rect x="601.5" y="147.4" width="22.9" height="120.1" fill="#13243a" stroke="#5d7ea3" stroke-width="0.5" />
+<polygon points="603.9,150.5 622.1,150.5 622.1,255.2 613.0,264.3 603.9,255.2" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<rect x="628.9" y="147.4" width="22.9" height="120.1" fill="#13243a" stroke="#5d7ea3" stroke-width="0.5" />
+<polygon points="631.2,150.5 649.4,150.5 649.4,255.2 640.3,264.3 631.2,255.2" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<rect x="656.2" y="139.5" width="221.2" height="132.7" fill="#3a2f24" stroke="#5d7ea3" stroke-width="0.6" fill-opacity="0.6"/>
+<text x="766.8" y="205.8" font-size="11" fill="#9fb3c8" text-anchor="middle" font-weight="normal">industrial belt</text>
+<text x="1035.4" y="205.8" font-size="11" fill="#9fb3c8" text-anchor="middle" font-weight="normal">engine block</text>
+<text x="119.0" y="220.1" font-size="11" fill="#9fb3c8" text-anchor="middle" font-weight="normal">forward</text>
+<text x="387.6" y="232.7" font-size="10" fill="#9fb3c8" text-anchor="middle" font-weight="normal">midships districts (old dockyard volume)</text>
+<text x="599.3" y="133.5" font-size="11" fill="#ffd98a" text-anchor="middle" font-weight="bold">ESCORT DOCK</text>
+<line x1="40.0" y1="276.2" x2="40.0" y2="282.2" stroke="#5d7ea3" stroke-width="0.8" />
+<text x="40.0" y="294.2" font-size="9" fill="#5d7ea3" text-anchor="middle" font-weight="normal">0</text>
+<line x1="229.6" y1="276.2" x2="229.6" y2="282.2" stroke="#5d7ea3" stroke-width="0.8" />
+<text x="229.6" y="294.2" font-size="9" fill="#5d7ea3" text-anchor="middle" font-weight="normal">1,200</text>
+<line x1="542.4" y1="276.2" x2="542.4" y2="282.2" stroke="#5d7ea3" stroke-width="0.8" />
+<text x="542.4" y="294.2" font-size="9" fill="#5d7ea3" text-anchor="middle" font-weight="normal">3,180</text>
+<line x1="656.2" y1="276.2" x2="656.2" y2="282.2" stroke="#5d7ea3" stroke-width="0.8" />
+<text x="656.2" y="294.2" font-size="9" fill="#5d7ea3" text-anchor="middle" font-weight="normal">3,900</text>
+<line x1="877.4" y1="276.2" x2="877.4" y2="282.2" stroke="#5d7ea3" stroke-width="0.8" />
+<text x="877.4" y="294.2" font-size="9" fill="#5d7ea3" text-anchor="middle" font-weight="normal">5,300</text>
+<line x1="1177.6" y1="276.2" x2="1177.6" y2="282.2" stroke="#5d7ea3" stroke-width="0.8" />
+<text x="1177.6" y="294.2" font-size="9" fill="#5d7ea3" text-anchor="middle" font-weight="normal">7,200 m</text>
+<line x1="1187.6" y1="272.2" x2="1187.6" y2="130.0" stroke="#9fb3c8" stroke-width="0.8" />
+<text x="1191.6" y="201.1" font-size="10" fill="#9fb3c8" text-anchor="start" font-weight="normal">900 m</text>
+<text x="40.0" y="332.2" font-size="16" fill="#4fb3ff" text-anchor="start" font-weight="bold">2 · CROSS-SECTION THROUGH ONE ROW, LOOKING FORWARD</text>
+<text x="40.0" y="350.2" font-size="12" fill="#9fb3c8" text-anchor="start" font-weight="normal">One battle group per row: five cruisers abreast, each in its own shaft</text>
+<rect x="85.0" y="372.2" width="630.0" height="420.0" fill="#16273d" stroke="#9fc3e6" stroke-width="1.2" />
+<rect x="85.0" y="372.2" width="45.0" height="420.0" fill="#2a3f5c" stroke="#5d7ea3" stroke-width="0.6" />
+<rect x="670.0" y="372.2" width="45.0" height="420.0" fill="#2a3f5c" stroke="#5d7ea3" stroke-width="0.6" />
+<text x="107.5" y="582.2" font-size="9" fill="#9fb3c8" text-anchor="middle" font-weight="normal">side belt</text>
+<text x="692.5" y="582.2" font-size="9" fill="#9fb3c8" text-anchor="middle" font-weight="normal">side belt</text>
+<rect x="130.0" y="372.2" width="540.0" height="25.0" fill="#203550" stroke="#5d7ea3" stroke-width="0.6" />
+<text x="400.0" y="388.2" font-size="10" fill="#9fb3c8" text-anchor="middle" font-weight="normal">top cap: cradle winches · gantry heads · drive shops</text>
+<rect x="130.0" y="777.2" width="540.0" height="15.0" fill="#3a5578" stroke="#5d7ea3" stroke-width="0.6" />
+<rect x="142.5" y="397.2" width="93.0" height="380.0" fill="#13243a" stroke="#9fc3e6" stroke-width="0.8" />
+<polygon points="150.0,404.7 228.0,404.7 228.0,735.9 189.0,764.7 150.0,735.9" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<rect x="144.5" y="778.2" width="89.0" height="13.0" fill="#4c6d96" stroke="#9fc3e6" stroke-width="0.6" />
+<rect x="248.0" y="397.2" width="93.0" height="380.0" fill="#13243a" stroke="#9fc3e6" stroke-width="0.8" />
+<polygon points="255.5,404.7 333.5,404.7 333.5,735.9 294.5,764.7 255.5,735.9" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<rect x="250.0" y="778.2" width="89.0" height="13.0" fill="#4c6d96" stroke="#9fc3e6" stroke-width="0.6" />
+<rect x="353.5" y="397.2" width="93.0" height="380.0" fill="#13243a" stroke="#9fc3e6" stroke-width="0.8" />
+<polygon points="361.0,404.7 439.0,404.7 439.0,735.9 400.0,764.7 361.0,735.9" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<rect x="355.5" y="778.2" width="89.0" height="13.0" fill="#4c6d96" stroke="#9fc3e6" stroke-width="0.6" />
+<rect x="459.0" y="397.2" width="93.0" height="380.0" fill="#13243a" stroke="#9fc3e6" stroke-width="0.8" />
+<polygon points="466.5,404.7 544.5,404.7 544.5,735.9 505.5,764.7 466.5,735.9" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<rect x="461.0" y="778.2" width="89.0" height="13.0" fill="#4c6d96" stroke="#9fc3e6" stroke-width="0.6" />
+<rect x="564.5" y="397.2" width="93.0" height="380.0" fill="#13243a" stroke="#9fc3e6" stroke-width="0.8" />
+<polygon points="572.0,404.7 650.0,404.7 650.0,735.9 611.0,764.7 572.0,735.9" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<rect x="566.5" y="778.2" width="89.0" height="13.0" fill="#4c6d96" stroke="#9fc3e6" stroke-width="0.6" />
+<rect x="130.0" y="397.2" width="12.5" height="380.0" fill="#2a3f5c" stroke="#5d7ea3" stroke-width="0.4" />
+<rect x="128.0" y="715.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="128.0" y="615.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="128.0" y="515.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="128.0" y="440.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="235.5" y="397.2" width="12.5" height="380.0" fill="#2a3f5c" stroke="#5d7ea3" stroke-width="0.4" />
+<rect x="233.5" y="715.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="233.5" y="615.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="233.5" y="515.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="233.5" y="440.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="341.0" y="397.2" width="12.5" height="380.0" fill="#2a3f5c" stroke="#5d7ea3" stroke-width="0.4" />
+<rect x="339.0" y="715.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="339.0" y="615.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="339.0" y="515.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="339.0" y="440.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="446.5" y="397.2" width="12.5" height="380.0" fill="#2a3f5c" stroke="#5d7ea3" stroke-width="0.4" />
+<rect x="444.5" y="715.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="444.5" y="615.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="444.5" y="515.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="444.5" y="440.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="552.0" y="397.2" width="12.5" height="380.0" fill="#2a3f5c" stroke="#5d7ea3" stroke-width="0.4" />
+<rect x="550.0" y="715.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="550.0" y="615.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="550.0" y="515.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="550.0" y="440.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="657.5" y="397.2" width="12.5" height="380.0" fill="#2a3f5c" stroke="#5d7ea3" stroke-width="0.4" />
+<rect x="655.5" y="715.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="655.5" y="615.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="655.5" y="515.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<rect x="655.5" y="440.2" width="16.5" height="4.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<text x="400.0" y="806.2" font-size="10" fill="#9fb3c8" text-anchor="middle" font-weight="normal">keel shutters — one door per ship, 186 × 145 m</text>
+<line x1="85.0" y1="816.2" x2="715.0" y2="816.2" stroke="#9fb3c8" stroke-width="0.8" />
+<text x="400.0" y="830.2" font-size="10" fill="#9fb3c8" text-anchor="middle" font-weight="normal">1,260 m</text>
+<line x1="723.0" y1="792.2" x2="723.0" y2="372.2" stroke="#9fb3c8" stroke-width="0.8" />
+<text x="727.0" y="582.2" font-size="10" fill="#9fb3c8" text-anchor="start" font-weight="normal">840 m</text>
+<text x="795.0" y="332.2" font-size="16" fill="#4fb3ff" text-anchor="start" font-weight="bold">3 · LENGTHWISE SECTION OF THE DOCK</text>
+<text x="795.0" y="350.2" font-size="12" fill="#9fb3c8" text-anchor="start" font-weight="normal">Four rows, one per battle group, 720 m in all</text>
+<rect x="825.0" y="372.2" width="30.0" height="420.0" fill="#16273d" stroke="#5d7ea3" stroke-width="0.6" />
+<text x="840.0" y="582.2" font-size="9" fill="#9fb3c8" text-anchor="middle" font-weight="normal">wings</text>
+<rect x="1215.0" y="372.2" width="35.0" height="420.0" fill="#3a2f24" stroke="#5d7ea3" stroke-width="0.6" />
+<text x="1232.5" y="582.2" font-size="9" fill="#9fb3c8" text-anchor="middle" font-weight="normal">belt</text>
+<rect x="855.0" y="372.2" width="360.0" height="420.0" fill="#2a3f5c" stroke="#ffd98a" stroke-width="1.2" />
+<rect x="855.0" y="372.2" width="360.0" height="25.0" fill="#203550" stroke="#5d7ea3" stroke-width="0.6" />
+<rect x="869.0" y="397.2" width="72.5" height="380.0" fill="#13243a" stroke="#9fc3e6" stroke-width="0.8" />
+<polygon points="876.5,404.7 934.0,404.7 934.0,735.9 905.2,764.7 876.5,735.9" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<text x="905.0" y="791.2" font-size="10" fill="#e6eef7" text-anchor="middle" font-weight="bold">BG I</text>
+<rect x="955.5" y="397.2" width="72.5" height="380.0" fill="#13243a" stroke="#9fc3e6" stroke-width="0.8" />
+<polygon points="963.0,404.7 1020.5,404.7 1020.5,735.9 991.8,764.7 963.0,735.9" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<text x="991.5" y="791.2" font-size="10" fill="#e6eef7" text-anchor="middle" font-weight="bold">BG II</text>
+<rect x="1042.0" y="397.2" width="72.5" height="380.0" fill="#13243a" stroke="#9fc3e6" stroke-width="0.8" />
+<polygon points="1049.5,404.7 1107.0,404.7 1107.0,735.9 1078.2,764.7 1049.5,735.9" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<text x="1078.0" y="791.2" font-size="10" fill="#e6eef7" text-anchor="middle" font-weight="bold">BG III</text>
+<rect x="1128.5" y="397.2" width="72.5" height="380.0" fill="#13243a" stroke="#9fc3e6" stroke-width="0.8" />
+<polygon points="1136.0,404.7 1193.5,404.7 1193.5,735.9 1164.8,764.7 1136.0,735.9" fill="#4fb3ff" fill-opacity="0.9" stroke="#e6eef7" stroke-width="0.7"/>
+<text x="1164.5" y="791.2" font-size="10" fill="#e6eef7" text-anchor="middle" font-weight="bold">BG IV</text>
+<rect x="855.0" y="397.2" width="14.0" height="380.0" fill="#33506f" stroke="#5d7ea3" stroke-width="0.4" />
+<rect x="941.5" y="397.2" width="14.0" height="380.0" fill="#33506f" stroke="#5d7ea3" stroke-width="0.4" />
+<rect x="1028.0" y="397.2" width="14.0" height="380.0" fill="#33506f" stroke="#5d7ea3" stroke-width="0.4" />
+<rect x="1114.5" y="397.2" width="14.0" height="380.0" fill="#33506f" stroke="#5d7ea3" stroke-width="0.4" />
+<rect x="1201.0" y="397.2" width="14.0" height="380.0" fill="#33506f" stroke="#5d7ea3" stroke-width="0.4" />
+<text x="1035.0" y="366.2" font-size="10" fill="#9fb3c8" text-anchor="middle" font-weight="normal">magazines in the walls between rows</text>
+<line x1="855.0" y1="816.2" x2="1215.0" y2="816.2" stroke="#9fb3c8" stroke-width="0.8" />
+<text x="1035.0" y="830.2" font-size="10" fill="#9fb3c8" text-anchor="middle" font-weight="normal">720 m</text>
+<rect x="40.0" y="852.2" width="12.0" height="12.0" fill="#7fd1b0" stroke="none" stroke-width="1" />
+<text x="58.0" y="862.2" font-size="12" fill="#e6eef7" text-anchor="start" font-weight="normal">crew tubes, power, coolant and ammunition hoists, at four levels in every wall</text>
+<rect x="620.0" y="852.2" width="12.0" height="12.0" fill="#2a3f5c" stroke="#ffd98a" stroke-width="1" />
+<text x="638.0" y="862.2" font-size="12" fill="#e6eef7" text-anchor="start" font-weight="normal">full-depth cellular walls: carry the hull's lengthwise loads through the dock</text>
+<text x="40.0" y="886.2" font-size="12" fill="#9fb3c8" text-anchor="start" font-weight="normal">Cruisers stand nose-down so they leave prow-first. The dock's gravity is off; each cruiser keeps her own decks while moored.</text>
+<text x="40.0" y="904.2" font-size="12" fill="#9fb3c8" text-anchor="start" font-weight="normal">Hangar Bay and Frigate Deck stay in the wings, now 1,900 m long and about 310 m deep. The Keep and districts take the old dockyard volume.</text>
+</svg>
