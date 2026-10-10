@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1400" width="2000" height="1400">
 <rect width="2000" height="1400" fill="#ffffff"/>
 <rect x="14.0" y="14.0" width="1972.0" height="1372.0" fill="#f3f6fa" stroke="#2b4466" stroke-width="3" />
-<text x="60.0" y="62.0" font-size="24" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">The service bay and a Casakin-class battlecarrier, at true scale · bow to the left · after the Master Specification, Rev 160</text>
+<text x="60.0" y="62.0" font-size="24" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">The service bay and a Casakin-class battleship/carrier, at true scale · bow to the left · after the Master Specification, Rev 161</text>
 <line x1="60.0" y1="82.0" x2="1940.0" y2="82.0" stroke="#2b4466" stroke-width="1.6" />
 <text x="70.0" y="125.0" font-size="19" fill="#1f3350" text-anchor="start" font-weight="bold" letter-spacing="1.2" font-family="Liberation Sans, Arial, Helvetica, sans-serif">1 · IN THE ISKAR, SIDE VIEW</text>
 <text x="400.0" y="125.0" font-size="16" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">the service bay fills the keel of the industrial belt, under the foundries</text>
@@ -79,8 +79,8 @@
 <text x="1580.0" y="542.0" font-size="13" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">hall 680 m wide · heavy berth 400 × 300 m · frigate dock 140 m a side</text>
 <line x1="1396.4" y1="560.0" x2="1763.6" y2="560.0" stroke="#1f3350" stroke-width="1" />
 <text x="1580.0" y="578.0" font-size="14" fill="#1f3350" text-anchor="middle" font-weight="normal" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">1,020 m</text>
-<text x="70.0" y="770.0" font-size="19" fill="#1f3350" text-anchor="start" font-weight="bold" letter-spacing="1.2" font-family="Liberation Sans, Arial, Helvetica, sans-serif">4 · CASAKIN-CLASS BATTLECARRIER</text>
-<text x="510.0" y="770.0" font-size="16" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">2,000 × 360 × 260 m · about 145 million t · crew 3,200</text>
+<text x="70.0" y="770.0" font-size="19" fill="#1f3350" text-anchor="start" font-weight="bold" letter-spacing="1.2" font-family="Liberation Sans, Arial, Helvetica, sans-serif">4 · CASAKIN-CLASS BATTLESHIP/CARRIER</text>
+<text x="538.0" y="770.0" font-size="16" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">2,000 × 360 × 260 m · about 145 million t · crew 3,200</text>
 <polygon points="70.0,905.8 128.8,872.2 128.8,865.9 179.2,857.5 179.2,851.2 229.6,838.6 229.6,834.4 784.0,834.4 784.0,842.8 910.0,842.8 910.0,977.2 784.0,977.2 784.0,985.6 229.6,985.6 229.6,981.4 179.2,968.8 179.2,962.5 128.8,954.1 128.8,947.8 70.0,914.2" fill="#c9862c" stroke="#7a4d12" stroke-width="1.3" stroke-linejoin="round" />
 <rect x="246.4" y="907.5" width="516.6" height="5.0" fill="#5a3a10" stroke="none" stroke-width="1" />
 <rect x="414.4" y="889.0" width="71.4" height="42.0" fill="#8a5a1c" stroke="#14263f" stroke-width="0.6" />
