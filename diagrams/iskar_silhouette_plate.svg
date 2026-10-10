@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1820" width="2000" height="1820">
 <rect width="2000" height="1820" fill="#ffffff"/>
 <rect x="14.0" y="14.0" width="1972.0" height="1792.0" fill="#f3f6fa" stroke="#2b4466" stroke-width="3" />
-<text x="60.0" y="62.0" font-size="23" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">Orthographic plates, to scale · bow toward top of plate · radiators stowed · Iskar, flagship of the Ninth Expeditionary Fleet, after the Master Specification, Rev 157</text>
+<text x="60.0" y="62.0" font-size="23" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">Orthographic plates, to scale · bow toward top of plate · radiators stowed · Iskar, flagship of the Ninth Expeditionary Fleet, after the Master Specification, Rev 158</text>
 <line x1="60.0" y1="82.0" x2="1940.0" y2="82.0" stroke="#2b4466" stroke-width="1.6" />
 <text x="330.0" y="150.0" font-size="20" fill="#1f3350" text-anchor="middle" font-weight="bold" letter-spacing="1.5" font-family="Liberation Sans, Arial, Helvetica, sans-serif">PLAN · FROM ABOVE</text>
 <text x="330.0" y="174.0" font-size="17" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">dorsal face, port to the left</text>
@@ -258,7 +258,7 @@
 <line x1="688.2" y1="1193.8" x2="783.0" y2="1193.8" stroke="#5f86b6" stroke-width="1" />
 <line x1="688.2" y1="1423.0" x2="783.0" y2="1423.0" stroke="#5f86b6" stroke-width="1" />
 <rect x="736.9" y="458.8" width="6.3" height="385.0" fill="#1c3352" stroke="#14263f" stroke-width="1" />
-<rect x="744.4" y="458.8" width="8.8" height="385.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
+<rect x="744.4" y="458.8" width="17.5" height="385.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
 <rect x="737.5" y="469.2" width="4.9" height="26.2" fill="#a9cdf2" stroke="#14263f" stroke-width="0.5" />
 <rect x="737.5" y="515.6" width="4.9" height="26.2" fill="#a9cdf2" stroke="#14263f" stroke-width="0.5" />
 <rect x="737.5" y="562.0" width="4.9" height="26.2" fill="#a9cdf2" stroke="#14263f" stroke-width="0.5" />
@@ -267,9 +267,9 @@
 <rect x="737.5" y="701.1" width="4.9" height="26.2" fill="#a9cdf2" stroke="#14263f" stroke-width="0.5" />
 <rect x="737.5" y="747.5" width="4.9" height="26.2" fill="#6fa2dc" stroke="#14263f" stroke-width="0.5" />
 <rect x="737.5" y="793.9" width="4.9" height="26.2" fill="#6fa2dc" stroke="#14263f" stroke-width="0.5" />
-<rect x="744.9" y="511.2" width="6.5" height="29.7" fill="#cfe3f8" stroke="#14263f" stroke-width="0.5" />
-<rect x="744.9" y="633.8" width="6.5" height="29.7" fill="#cfe3f8" stroke="#14263f" stroke-width="0.5" />
-<rect x="744.9" y="756.2" width="6.5" height="29.7" fill="#cfe3f8" stroke="#14263f" stroke-width="0.5" />
+<rect x="745.2" y="469.2" width="15.7" height="99.8" fill="#cfe3f8" stroke="#14263f" stroke-width="0.5" />
+<rect x="745.2" y="595.2" width="15.7" height="99.8" fill="#cfe3f8" stroke="#14263f" stroke-width="0.5" />
+<rect x="745.2" y="721.2" width="15.7" height="99.8" fill="#cfe3f8" stroke="#14263f" stroke-width="0.5" />
 <rect x="688.4" y="528.8" width="52.5" height="367.5" fill="#0f1d31" stroke="#14263f" stroke-width="0.8" />
 <rect x="688.4" y="922.5" width="24.5" height="134.8" fill="#0f1d31" stroke="#14263f" stroke-width="0.8" />
 <rect x="788.1" y="460.5" width="8.8" height="15.7" fill="#5a7fae" stroke="#14263f" stroke-width="1" />
@@ -484,13 +484,13 @@
 <text x="1282.2" y="710.2" font-size="14" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">keel doors 2,100 × 400 m</text>
 <line x1="1166.1" y1="992.5" x2="1276.2" y2="992.5" stroke="#7f97b5" stroke-width="1" />
 <text x="1282.2" y="997.5" font-size="15" fill="#1f3350" text-anchor="start" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">SALVAGE BAY</text>
-<text x="1282.2" y="1016.5" font-size="14" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">a Kangeth or two Corricks</text>
+<text x="1282.2" y="1016.5" font-size="14" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">a Kangeth or a Corrick</text>
 <text x="1730.0" y="150.0" font-size="20" fill="#1f3350" text-anchor="middle" font-weight="bold" letter-spacing="1.5" font-family="Liberation Sans, Arial, Helvetica, sans-serif">SECTION · FROM AHEAD</text>
 <text x="1730.0" y="174.0" font-size="17" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">the collars step down to the cap</text>
 <rect x="1598.0" y="313.7" width="9.6" height="8.6" fill="#1c3352" stroke="#14263f" stroke-width="1" />
-<rect x="1601.6" y="300.0" width="6.0" height="12.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
+<rect x="1601.6" y="288.0" width="6.0" height="24.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
 <rect x="1852.4" y="313.7" width="9.6" height="8.6" fill="#1c3352" stroke="#14263f" stroke-width="1" />
-<rect x="1852.4" y="300.0" width="6.0" height="12.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
+<rect x="1852.4" y="288.0" width="6.0" height="24.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
 <polygon points="1638.7,252.0 1821.3,252.0 1852.4,289.7 1852.4,358.3 1821.3,396.0 1638.7,396.0 1607.6,358.3 1607.6,289.7" fill="#28466d" stroke="#14263f" stroke-width="1.2" stroke-linejoin="round" fill-opacity="1"/>
 <rect x="1710.8" y="240.0" width="38.4" height="12.0" fill="#5a7fae" stroke="#14263f" stroke-width="1" />
 <polygon points="1641.6,255.4 1818.4,255.4 1848.6,291.3 1848.6,356.7 1818.4,392.6 1641.6,392.6 1611.4,356.7 1611.4,291.3" fill="#335a88" stroke="#5f86b6" stroke-width="1" stroke-linejoin="round" fill-opacity="0.6"/>
@@ -503,9 +503,9 @@
 <text x="1730.0" y="496.0" font-size="20" fill="#1f3350" text-anchor="middle" font-weight="bold" letter-spacing="1.5" font-family="Liberation Sans, Arial, Helvetica, sans-serif">SECTION · FROM ASTERN</text>
 <text x="1730.0" y="520.0" font-size="17" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">squared frame around five drives in an X</text>
 <rect x="1598.0" y="639.7" width="9.6" height="8.6" fill="#1c3352" stroke="#14263f" stroke-width="1" />
-<rect x="1601.6" y="626.0" width="6.0" height="12.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
+<rect x="1601.6" y="614.0" width="6.0" height="24.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
 <rect x="1852.4" y="639.7" width="9.6" height="8.6" fill="#1c3352" stroke="#14263f" stroke-width="1" />
-<rect x="1852.4" y="626.0" width="6.0" height="12.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
+<rect x="1852.4" y="614.0" width="6.0" height="24.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
 <polygon points="1638.7,578.0 1821.3,578.0 1852.4,615.7 1852.4,684.3 1821.3,722.0 1638.7,722.0 1607.6,684.3 1607.6,615.7" fill="#28466d" stroke="#14263f" stroke-width="1.2" stroke-linejoin="round" fill-opacity="1"/>
 <rect x="1710.8" y="566.0" width="38.4" height="12.0" fill="#5a7fae" stroke="#14263f" stroke-width="1" />
 <polygon points="1647.3,585.0 1812.7,585.0 1840.9,619.0 1840.9,681.0 1812.7,715.0 1647.3,715.0 1619.1,681.0 1619.1,619.0" fill="#335a88" stroke="#5f86b6" stroke-width="1" stroke-linejoin="round" fill-opacity="1"/>
@@ -528,12 +528,12 @@
 <polygon points="1600.0,882.0 1618.9,903.0 1631.5,917.0 1631.5,1232.0 1568.5,1232.0 1568.5,917.0 1581.1,903.0" fill="#28466d" stroke="#14263f" stroke-width="1" stroke-linejoin="round" />
 <text x="1600.0" y="1256.0" font-size="16" fill="#1f3350" text-anchor="middle" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">Casakin</text>
 <text x="1600.0" y="1276.0" font-size="14" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">2,000 m · jumps alongside</text>
-<polygon points="1750.0,882.0 1753.4,885.1 1755.7,887.2 1755.7,934.5 1744.3,934.5 1744.3,887.2 1746.6,885.1" fill="#335a88" stroke="#14263f" stroke-width="1" stroke-linejoin="round" />
-<text x="1750.0" y="958.5" font-size="16" fill="#1f3350" text-anchor="middle" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">Corrick</text>
-<text x="1750.0" y="978.5" font-size="14" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">300 m · rides aboard</text>
-<polygon points="1870.0,882.0 1877.3,887.2 1882.2,890.8 1882.2,969.5 1857.8,969.5 1857.8,890.8 1862.7,887.2" fill="#6b7f99" stroke="#14263f" stroke-width="1" stroke-linejoin="round" />
-<text x="1870.0" y="993.5" font-size="16" fill="#1f3350" text-anchor="middle" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">Kangeth</text>
-<text x="1870.0" y="1013.5" font-size="14" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">500 m · rides aboard</text>
+<polygon points="1740.0,882.0 1746.0,887.8 1750.1,891.6 1750.1,978.2 1729.9,978.2 1729.9,891.6 1734.0,887.8" fill="#335a88" stroke="#14263f" stroke-width="1" stroke-linejoin="round" />
+<text x="1740.0" y="1002.2" font-size="16" fill="#1f3350" text-anchor="middle" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">Corrick</text>
+<text x="1740.0" y="1022.2" font-size="14" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">550 m · rides aboard</text>
+<polygon points="1895.0,882.0 1902.3,887.2 1907.2,890.8 1907.2,969.5 1882.8,969.5 1882.8,890.8 1887.7,887.2" fill="#6b7f99" stroke="#14263f" stroke-width="1" stroke-linejoin="round" />
+<text x="1895.0" y="1002.2" font-size="16" fill="#1f3350" text-anchor="middle" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">Kangeth</text>
+<text x="1895.0" y="1022.2" font-size="14" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">500 m · rides aboard</text>
 <text x="60" y="282.0" font-size="13" fill="#8a9bb0" font-weight="bold" letter-spacing="2" text-anchor="middle" transform="rotate(-90 60 282.0)" font-family="Liberation Sans, Arial, Helvetica, sans-serif">CAP</text>
 <text x="60" y="382.6" font-size="13" fill="#8a9bb0" font-weight="bold" letter-spacing="2" text-anchor="middle" transform="rotate(-90 60 382.6)" font-family="Liberation Sans, Arial, Helvetica, sans-serif">COLLARS</text>
 <text x="60" y="668.8" font-size="13" fill="#8a9bb0" font-weight="bold" letter-spacing="2" text-anchor="middle" transform="rotate(-90 60 668.8)" font-family="Liberation Sans, Arial, Helvetica, sans-serif">MIDSHIPS</text>
