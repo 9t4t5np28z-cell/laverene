@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1820" width="2000" height="1820">
 <rect width="2000" height="1820" fill="#ffffff"/>
 <rect x="14.0" y="14.0" width="1972.0" height="1792.0" fill="#f3f6fa" stroke="#2b4466" stroke-width="3" />
-<text x="60.0" y="62.0" font-size="23" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">Orthographic plates, to scale · bow toward top of plate · radiators stowed · Iskar, flagship of the Ninth Expeditionary Fleet, after the Master Specification, Rev 159</text>
+<text x="60.0" y="62.0" font-size="23" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">Orthographic plates, to scale · bow toward top of plate · radiators stowed · Iskar, flagship of the Ninth Expeditionary Fleet, after the Master Specification, Rev 160</text>
 <line x1="60.0" y1="82.0" x2="1940.0" y2="82.0" stroke="#2b4466" stroke-width="1.6" />
 <text x="330.0" y="150.0" font-size="20" fill="#1f3350" text-anchor="middle" font-weight="bold" letter-spacing="1.5" font-family="Liberation Sans, Arial, Helvetica, sans-serif">PLAN · FROM ABOVE</text>
 <text x="330.0" y="174.0" font-size="17" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">dorsal face, port to the left</text>
@@ -258,7 +258,6 @@
 <line x1="688.2" y1="1193.8" x2="783.0" y2="1193.8" stroke="#5f86b6" stroke-width="1" />
 <line x1="688.2" y1="1423.0" x2="783.0" y2="1423.0" stroke="#5f86b6" stroke-width="1" />
 <rect x="736.9" y="458.8" width="6.3" height="385.0" fill="#1c3352" stroke="#14263f" stroke-width="1" />
-<rect x="744.4" y="458.8" width="17.5" height="385.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
 <rect x="737.5" y="469.2" width="4.9" height="26.2" fill="#a9cdf2" stroke="#14263f" stroke-width="0.5" />
 <rect x="737.5" y="515.6" width="4.9" height="26.2" fill="#a9cdf2" stroke="#14263f" stroke-width="0.5" />
 <rect x="737.5" y="562.0" width="4.9" height="26.2" fill="#a9cdf2" stroke="#14263f" stroke-width="0.5" />
@@ -267,11 +266,7 @@
 <rect x="737.5" y="701.1" width="4.9" height="26.2" fill="#a9cdf2" stroke="#14263f" stroke-width="0.5" />
 <rect x="737.5" y="747.5" width="4.9" height="26.2" fill="#6fa2dc" stroke="#14263f" stroke-width="0.5" />
 <rect x="737.5" y="793.9" width="4.9" height="26.2" fill="#6fa2dc" stroke="#14263f" stroke-width="0.5" />
-<rect x="745.2" y="469.2" width="15.7" height="99.8" fill="#cfe3f8" stroke="#14263f" stroke-width="0.5" />
-<rect x="745.2" y="595.2" width="15.7" height="99.8" fill="#cfe3f8" stroke="#14263f" stroke-width="0.5" />
-<rect x="745.2" y="721.2" width="15.7" height="99.8" fill="#cfe3f8" stroke="#14263f" stroke-width="0.5" />
-<rect x="688.4" y="528.8" width="52.5" height="367.5" fill="#0f1d31" stroke="#14263f" stroke-width="0.8" />
-<rect x="688.4" y="922.5" width="24.5" height="134.8" fill="#0f1d31" stroke="#14263f" stroke-width="0.8" />
+<rect x="688.4" y="721.2" width="52.5" height="420.0" fill="#0f1d31" stroke="#14263f" stroke-width="0.8" />
 <rect x="788.1" y="460.5" width="8.8" height="15.7" fill="#5a7fae" stroke="#14263f" stroke-width="1" />
 <rect x="788.1" y="479.8" width="8.8" height="17.5" fill="#5a7fae" stroke="#14263f" stroke-width="1" />
 <rect x="788.1" y="500.8" width="6.1" height="12.2" fill="#5a7fae" stroke="#14263f" stroke-width="1" />
@@ -321,15 +316,23 @@
 <line x1="1069.2" y1="1141.2" x2="1230.8" y2="1141.2" stroke="#5f86b6" stroke-width="1" />
 <line x1="1069.2" y1="1193.8" x2="1230.8" y2="1193.8" stroke="#5f86b6" stroke-width="1" />
 <line x1="1069.2" y1="1423.0" x2="1230.8" y2="1423.0" stroke="#5f86b6" stroke-width="1" />
-<rect x="1115.0" y="528.8" width="70.0" height="367.5" fill="#0f1d31" stroke="#e0a64a" stroke-width="1.2" />
-<line x1="1115.0" y1="581.2" x2="1185.0" y2="581.2" stroke="#3a5578" stroke-width="1" />
-<line x1="1115.0" y1="633.8" x2="1185.0" y2="633.8" stroke="#3a5578" stroke-width="1" />
-<line x1="1115.0" y1="686.2" x2="1185.0" y2="686.2" stroke="#3a5578" stroke-width="1" />
-<line x1="1115.0" y1="738.8" x2="1185.0" y2="738.8" stroke="#3a5578" stroke-width="1" />
-<line x1="1115.0" y1="791.2" x2="1185.0" y2="791.2" stroke="#3a5578" stroke-width="1" />
-<line x1="1115.0" y1="843.8" x2="1185.0" y2="843.8" stroke="#3a5578" stroke-width="1" />
-<line x1="1150.0" y1="528.8" x2="1150.0" y2="896.2" stroke="#3a5578" stroke-width="1" />
-<rect x="1133.9" y="922.5" width="32.2" height="134.8" fill="#0f1d31" stroke="#9fb9d8" stroke-width="0.9" />
+<rect x="1115.0" y="721.2" width="70.0" height="420.0" fill="#0f1d31" stroke="#e0a64a" stroke-width="1.2" />
+<line x1="1115.0" y1="773.8" x2="1185.0" y2="773.8" stroke="#3a5578" stroke-width="1" />
+<line x1="1115.0" y1="826.2" x2="1185.0" y2="826.2" stroke="#3a5578" stroke-width="1" />
+<line x1="1115.0" y1="878.8" x2="1185.0" y2="878.8" stroke="#3a5578" stroke-width="1" />
+<line x1="1115.0" y1="931.2" x2="1185.0" y2="931.2" stroke="#3a5578" stroke-width="1" />
+<line x1="1115.0" y1="983.8" x2="1185.0" y2="983.8" stroke="#3a5578" stroke-width="1" />
+<line x1="1115.0" y1="1036.2" x2="1185.0" y2="1036.2" stroke="#3a5578" stroke-width="1" />
+<line x1="1115.0" y1="1088.8" x2="1185.0" y2="1088.8" stroke="#3a5578" stroke-width="1" />
+<line x1="1150.0" y1="721.2" x2="1150.0" y2="1141.2" stroke="#3a5578" stroke-width="1" />
+<rect x="1090.5" y="721.2" width="24.5" height="420.0" fill="#0f1d31" stroke="#9fb9d8" stroke-width="1.1" />
+<line x1="1090.5" y1="826.2" x2="1115.0" y2="826.2" stroke="#3a5578" stroke-width="1" />
+<line x1="1090.5" y1="931.2" x2="1115.0" y2="931.2" stroke="#3a5578" stroke-width="1" />
+<line x1="1090.5" y1="1036.2" x2="1115.0" y2="1036.2" stroke="#3a5578" stroke-width="1" />
+<rect x="1185.0" y="721.2" width="24.5" height="420.0" fill="#0f1d31" stroke="#9fb9d8" stroke-width="1.1" />
+<line x1="1185.0" y1="826.2" x2="1209.5" y2="826.2" stroke="#3a5578" stroke-width="1" />
+<line x1="1185.0" y1="931.2" x2="1209.5" y2="931.2" stroke="#3a5578" stroke-width="1" />
+<line x1="1185.0" y1="1036.2" x2="1209.5" y2="1036.2" stroke="#3a5578" stroke-width="1" />
 <rect x="1064.2" y="502.5" width="10.0" height="157.5" fill="#e0a64a" stroke="#14263f" stroke-width="0.6" />
 <rect x="1068.2" y="497.5" width="12.0" height="10.0" fill="#e0a64a" stroke="#14263f" stroke-width="0.6" />
 <rect x="1068.2" y="655.0" width="12.0" height="10.0" fill="#e0a64a" stroke="#14263f" stroke-width="0.6" />
@@ -352,34 +355,20 @@
 <circle cx="1092.2" cy="663.5" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
 <circle cx="1092.2" cy="679.2" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
 <circle cx="1092.2" cy="695.0" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="710.8" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="726.5" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="742.2" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="758.0" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="773.8" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="789.5" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="805.2" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="821.0" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="836.8" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="852.5" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="868.2" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="884.0" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="899.8" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1092.2" cy="915.5" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<rect x="1078.0" y="922.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="933.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="943.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="954.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="964.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="975.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="985.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="996.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="1006.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="1017.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="1027.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="1038.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="1048.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1078.0" y="1059.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="467.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="483.2" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="499.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="514.8" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="530.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="546.2" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="562.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="577.8" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="593.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="609.2" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="625.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="640.8" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="656.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1078.0" y="672.2" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
 <circle cx="1107.1" cy="472.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
 <circle cx="1107.1" cy="506.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
 <circle cx="1107.1" cy="539.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
@@ -388,18 +377,19 @@
 <circle cx="1107.1" cy="639.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
 <circle cx="1107.1" cy="672.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
 <circle cx="1107.1" cy="705.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1107.1" cy="738.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1107.1" cy="772.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1107.1" cy="805.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1107.1" cy="838.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1107.1" cy="871.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1107.1" cy="905.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1107.1" cy="938.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1107.1" cy="971.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1107.1" cy="1004.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1107.1" cy="1038.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1107.1" cy="1071.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1107.1" cy="1104.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="738.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="772.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="805.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="838.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="871.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="905.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="938.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="971.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="1004.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="1038.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="1071.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="1104.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1074.8" cy="1137.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
 <rect x="1225.8" y="502.5" width="10.0" height="157.5" fill="#e0a64a" stroke="#14263f" stroke-width="0.6" />
 <rect x="1219.8" y="497.5" width="12.0" height="10.0" fill="#e0a64a" stroke="#14263f" stroke-width="0.6" />
 <rect x="1219.8" y="655.0" width="12.0" height="10.0" fill="#e0a64a" stroke="#14263f" stroke-width="0.6" />
@@ -422,34 +412,20 @@
 <circle cx="1207.8" cy="663.5" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
 <circle cx="1207.8" cy="679.2" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
 <circle cx="1207.8" cy="695.0" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="710.8" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="726.5" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="742.2" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="758.0" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="773.8" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="789.5" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="805.2" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="821.0" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="836.8" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="852.5" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="868.2" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="884.0" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="899.8" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<circle cx="1207.8" cy="915.5" r="1.8" fill="#a9cdf2" stroke="none" stroke-width="1"/>
-<rect x="1218.0" y="922.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="933.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="943.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="954.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="964.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="975.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="985.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="996.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="1006.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="1017.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="1027.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="1038.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="1048.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
-<rect x="1218.0" y="1059.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="467.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="483.2" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="499.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="514.8" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="530.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="546.2" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="562.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="577.8" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="593.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="609.2" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="625.0" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="640.8" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="656.5" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
+<rect x="1218.0" y="672.2" width="4.0" height="4.0" fill="#c7d6ea" stroke="none" stroke-width="1" />
 <circle cx="1192.9" cy="472.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
 <circle cx="1192.9" cy="506.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
 <circle cx="1192.9" cy="539.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
@@ -458,39 +434,38 @@
 <circle cx="1192.9" cy="639.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
 <circle cx="1192.9" cy="672.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
 <circle cx="1192.9" cy="705.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1192.9" cy="738.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1192.9" cy="772.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1192.9" cy="805.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1192.9" cy="838.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1192.9" cy="871.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1192.9" cy="905.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1192.9" cy="938.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1192.9" cy="971.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1192.9" cy="1004.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1192.9" cy="1038.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1192.9" cy="1071.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
-<circle cx="1192.9" cy="1104.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="738.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="772.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="805.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="838.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="871.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="905.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="938.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="971.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="1004.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="1038.0" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="1071.2" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="1104.5" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
+<circle cx="1225.2" cy="1137.8" r="2.2" fill="#dbe7f5" stroke="#14263f" stroke-width="0.4"/>
 <line x1="1235.8" y1="590.0" x2="1276.2" y2="555.0" stroke="#7f97b5" stroke-width="1" />
 <text x="1282.2" y="560.0" font-size="15" fill="#1f3350" text-anchor="start" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">DOCKING ARMS</text>
 <text x="1282.2" y="579.0" font-size="14" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">four, one to each Casakin</text>
 <line x1="1207.8" y1="467.5" x2="1276.2" y2="467.5" stroke="#7f97b5" stroke-width="1" />
 <text x="1282.2" y="472.5" font-size="15" fill="#1f3350" text-anchor="start" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">DROP-POD BAYS</text>
-<text x="1282.2" y="491.5" font-size="14" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">along the ventral hull</text>
-<line x1="1246.2" y1="817.5" x2="1276.2" y2="817.5" stroke="#7f97b5" stroke-width="1" />
-<text x="1282.2" y="822.5" font-size="15" fill="#1f3350" text-anchor="start" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">HANGAR WINGS</text>
-<text x="1282.2" y="841.5" font-size="14" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">two stories on each flank</text>
-<line x1="1185.0" y1="677.5" x2="1276.2" y2="686.2" stroke="#7f97b5" stroke-width="1" />
-<text x="1282.2" y="691.2" font-size="15" fill="#1f3350" text-anchor="start" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">SERVICE BAY</text>
-<text x="1282.2" y="710.2" font-size="14" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">keel doors 2,100 × 400 m</text>
-<line x1="1166.1" y1="992.5" x2="1276.2" y2="992.5" stroke="#7f97b5" stroke-width="1" />
-<text x="1282.2" y="997.5" font-size="15" fill="#1f3350" text-anchor="start" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">SALVAGE BAY</text>
-<text x="1282.2" y="1016.5" font-size="14" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">a Kangeth or a Corrick</text>
+<text x="1282.2" y="491.5" font-size="14" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">along the midships keel</text>
+<line x1="1246.2" y1="668.8" x2="1276.2" y2="660.0" stroke="#7f97b5" stroke-width="1" />
+<text x="1282.2" y="665.0" font-size="15" fill="#1f3350" text-anchor="start" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">HANGAR WINGS</text>
+<text x="1282.2" y="684.0" font-size="14" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">the Hangar Bay, one story</text>
+<line x1="1177.0" y1="835.0" x2="1276.2" y2="800.0" stroke="#7f97b5" stroke-width="1" />
+<text x="1282.2" y="805.0" font-size="15" fill="#1f3350" text-anchor="start" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">SERVICE BAY</text>
+<text x="1282.2" y="824.0" font-size="14" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">heavy berth doors, 2,400 × 400 m</text>
+<line x1="1209.5" y1="1010.0" x2="1276.2" y2="992.5" stroke="#7f97b5" stroke-width="1" />
+<text x="1282.2" y="997.5" font-size="15" fill="#1f3350" text-anchor="start" font-weight="bold" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">FRIGATE DOCK</text>
+<text x="1282.2" y="1016.5" font-size="14" fill="#3a5a85" text-anchor="start" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">doors either side, sixteen Corricks</text>
 <text x="1730.0" y="150.0" font-size="20" fill="#1f3350" text-anchor="middle" font-weight="bold" letter-spacing="1.5" font-family="Liberation Sans, Arial, Helvetica, sans-serif">SECTION · FROM AHEAD</text>
 <text x="1730.0" y="174.0" font-size="17" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">the collars step down to the cap</text>
 <rect x="1598.0" y="313.7" width="9.6" height="8.6" fill="#1c3352" stroke="#14263f" stroke-width="1" />
-<rect x="1601.6" y="288.0" width="6.0" height="24.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
 <rect x="1852.4" y="313.7" width="9.6" height="8.6" fill="#1c3352" stroke="#14263f" stroke-width="1" />
-<rect x="1852.4" y="288.0" width="6.0" height="24.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
 <polygon points="1638.7,252.0 1821.3,252.0 1852.4,289.7 1852.4,358.3 1821.3,396.0 1638.7,396.0 1607.6,358.3 1607.6,289.7" fill="#28466d" stroke="#14263f" stroke-width="1.2" stroke-linejoin="round" fill-opacity="1"/>
 <rect x="1710.8" y="240.0" width="38.4" height="12.0" fill="#5a7fae" stroke="#14263f" stroke-width="1" />
 <polygon points="1641.6,255.4 1818.4,255.4 1848.6,291.3 1848.6,356.7 1818.4,392.6 1641.6,392.6 1611.4,356.7 1611.4,291.3" fill="#335a88" stroke="#5f86b6" stroke-width="1" stroke-linejoin="round" fill-opacity="0.6"/>
@@ -503,9 +478,7 @@
 <text x="1730.0" y="496.0" font-size="20" fill="#1f3350" text-anchor="middle" font-weight="bold" letter-spacing="1.5" font-family="Liberation Sans, Arial, Helvetica, sans-serif">SECTION · FROM ASTERN</text>
 <text x="1730.0" y="520.0" font-size="17" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">squared frame around five drives in an X</text>
 <rect x="1598.0" y="639.7" width="9.6" height="8.6" fill="#1c3352" stroke="#14263f" stroke-width="1" />
-<rect x="1601.6" y="614.0" width="6.0" height="24.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
 <rect x="1852.4" y="639.7" width="9.6" height="8.6" fill="#1c3352" stroke="#14263f" stroke-width="1" />
-<rect x="1852.4" y="614.0" width="6.0" height="24.0" fill="#335a88" stroke="#14263f" stroke-width="1" />
 <polygon points="1638.7,578.0 1821.3,578.0 1852.4,615.7 1852.4,684.3 1821.3,722.0 1638.7,722.0 1607.6,684.3 1607.6,615.7" fill="#28466d" stroke="#14263f" stroke-width="1.2" stroke-linejoin="round" fill-opacity="1"/>
 <rect x="1710.8" y="566.0" width="38.4" height="12.0" fill="#5a7fae" stroke="#14263f" stroke-width="1" />
 <polygon points="1647.3,585.0 1812.7,585.0 1840.9,619.0 1840.9,681.0 1812.7,715.0 1647.3,715.0 1619.1,681.0 1619.1,619.0" fill="#335a88" stroke="#5f86b6" stroke-width="1" stroke-linejoin="round" fill-opacity="1"/>
@@ -536,22 +509,22 @@
 <text x="1895.0" y="1022.2" font-size="14" fill="#3a5a85" text-anchor="middle" font-weight="normal" font-style="italic" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">500 m · rides aboard</text>
 <text x="60" y="282.0" font-size="13" fill="#8a9bb0" font-weight="bold" letter-spacing="2" text-anchor="middle" transform="rotate(-90 60 282.0)" font-family="Liberation Sans, Arial, Helvetica, sans-serif">CAP</text>
 <text x="60" y="382.6" font-size="13" fill="#8a9bb0" font-weight="bold" letter-spacing="2" text-anchor="middle" transform="rotate(-90 60 382.6)" font-family="Liberation Sans, Arial, Helvetica, sans-serif">COLLARS</text>
-<text x="60" y="668.8" font-size="13" fill="#8a9bb0" font-weight="bold" letter-spacing="2" text-anchor="middle" transform="rotate(-90 60 668.8)" font-family="Liberation Sans, Arial, Helvetica, sans-serif">MIDSHIPS</text>
-<text x="60" y="1018.8" font-size="13" fill="#8a9bb0" font-weight="bold" letter-spacing="2" text-anchor="middle" transform="rotate(-90 60 1018.8)" font-family="Liberation Sans, Arial, Helvetica, sans-serif">INDUSTRIAL BELT</text>
+<text x="60" y="581.2" font-size="13" fill="#8a9bb0" font-weight="bold" letter-spacing="2" text-anchor="middle" transform="rotate(-90 60 581.2)" font-family="Liberation Sans, Arial, Helvetica, sans-serif">MIDSHIPS</text>
+<text x="60" y="931.2" font-size="13" fill="#8a9bb0" font-weight="bold" letter-spacing="2" text-anchor="middle" transform="rotate(-90 60 931.2)" font-family="Liberation Sans, Arial, Helvetica, sans-serif">INDUSTRIAL BELT</text>
 <text x="60" y="1303.1" font-size="13" fill="#8a9bb0" font-weight="bold" letter-spacing="2" text-anchor="middle" transform="rotate(-90 60 1303.1)" font-family="Liberation Sans, Arial, Helvetica, sans-serif">AFT</text>
 <line x1="48.0" y1="324.0" x2="72.0" y2="324.0" stroke="#8a9bb0" stroke-width="1" />
 <line x1="48.0" y1="441.2" x2="72.0" y2="441.2" stroke="#8a9bb0" stroke-width="1" />
-<line x1="48.0" y1="896.2" x2="72.0" y2="896.2" stroke="#8a9bb0" stroke-width="1" />
+<line x1="48.0" y1="721.2" x2="72.0" y2="721.2" stroke="#8a9bb0" stroke-width="1" />
 <line x1="48.0" y1="1141.2" x2="72.0" y2="1141.2" stroke="#8a9bb0" stroke-width="1" />
 <rect x="60.0" y="1590.0" width="1880.0" height="190.0" fill="#e8eef6" stroke="#9fb3cc" stroke-width="1.2" />
-<rect x="90.0" y="1618.0" width="22.0" height="18.0" fill="#0f1d31" stroke="#9fb9d8" stroke-width="1" />
-<text x="130.0" y="1632.0" font-size="17" fill="#1f3350" text-anchor="start" font-weight="normal" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">keel doors: service bay and Salvage Bay</text>
+<rect x="90.0" y="1618.0" width="22.0" height="18.0" fill="#0f1d31" stroke="#e0a64a" stroke-width="1.2" />
+<text x="130.0" y="1632.0" font-size="17" fill="#1f3350" text-anchor="start" font-weight="normal" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">keel doors: service bay, heavy berth</text>
 <rect x="694.0" y="1616.0" width="12.0" height="22.0" fill="#a9cdf2" stroke="#14263f" stroke-width="0.6" />
 <text x="730.0" y="1632.0" font-size="17" fill="#1f3350" text-anchor="start" font-weight="normal" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">hangar mouth, launch (12)</text>
 <rect x="1294.0" y="1616.0" width="12.0" height="22.0" fill="#6fa2dc" stroke="#14263f" stroke-width="0.6" />
 <text x="1330.0" y="1632.0" font-size="17" fill="#1f3350" text-anchor="start" font-weight="normal" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">hangar mouth, recovery (4)</text>
-<rect x="90.0" y="1660.0" width="26.0" height="14.0" fill="#cfe3f8" stroke="#14263f" stroke-width="0.6" />
-<text x="130.0" y="1672.0" font-size="17" fill="#1f3350" text-anchor="start" font-weight="normal" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">Frigate Deck mouth (6)</text>
+<rect x="90.0" y="1658.0" width="22.0" height="18.0" fill="#0f1d31" stroke="#9fb9d8" stroke-width="1.2" />
+<text x="130.0" y="1672.0" font-size="17" fill="#1f3350" text-anchor="start" font-weight="normal" letter-spacing="0" font-family="Liberation Sans, Arial, Helvetica, sans-serif">keel doors: frigate dock</text>
 <rect x="697.0" y="1666.0" width="8.0" height="8.0" fill="#dbe7f5" stroke="#14263f" stroke-width="0.6" />
 <line x1="699.4" y1="1670.0" x2="699.4" y2="1679.0" stroke="#dbe7f5" stroke-width="1.3" />
 <line x1="702.6" y1="1670.0" x2="702.6" y2="1679.0" stroke="#dbe7f5" stroke-width="1.3" />
